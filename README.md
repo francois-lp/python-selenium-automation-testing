@@ -25,7 +25,7 @@ __Dependencies__
 *Browsers drivers*
 - ChromeDriver ([download](https://pypi.org/project/chromedriver-py/) | [usage](https://sites.google.com/chromium.org/driver/))
 ```
-pip install chromedriver-py==93.0.4577.63
+    pip install chromedriver-py==93.0.4577.63
 ```
 
 - FirefoxDriver ([download](https://github.com/mozilla/geckodriver/releases) | [usage](https://pythonbasics.org/selenium-firefox/))
@@ -33,7 +33,7 @@ pip install chromedriver-py==93.0.4577.63
 
 - EdgeDriver ([download](https://developer.microsoft.com/fr-fr/microsoft-edge/tools/webdriver/) | [usage](https://docs.microsoft.com/fr-fr/microsoft-edge/webdriver-chromium/?tabs=c-sharp))
 ```
-pip install msedge-selenium-tools selenium==3.141
+    pip install msedge-selenium-tools selenium==3.141
 ```
 
 ## Getting started
